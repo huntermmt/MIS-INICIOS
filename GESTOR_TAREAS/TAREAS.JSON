@@ -1,0 +1,19 @@
+[
+  {
+    "ID": 1,
+    "TAREA": "Terminar excells eficiencia energética",
+    "FECHA": "Viernes 14/11",
+    "PRIORIDAD": "Alta"
+  },
+  {
+    "ID": 2,
+    "TAREA": "Protocolos eléctricos cursos escuela seguridad",
+    "FECHA": "Semana del 17 - 21 noviembre",
+    "PRIORIDAD": "media"
+  },
+  {
+    "ID": 3, 
+    "TAREA": "Estudiarme temario termografia",
+    "FECHA": "Semana del 17 - 21 noviembre",
+    "PRIORIDAD": "ALTA"
+},
